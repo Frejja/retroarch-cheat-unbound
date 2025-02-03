@@ -9,3 +9,8 @@ mobile without paste support.
 
 just add the file to RetroArch/cheats usually /sdcard/RetroArch/cheats
 
+This will also serve as a repository with
+the resources that i use to learn about
+mechanics such as breeding.
+
+/Emlin the gremlin
